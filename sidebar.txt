@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pbb:home|Door43 (pbb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pbb|d43-pbb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pbb/archive/master.zip|d43-pbb.zip]]
+
+**Recent Changes**
+{{changes>ns = pbb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pbb|Ethnologue data]]
+
